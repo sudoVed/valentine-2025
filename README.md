@@ -2,6 +2,8 @@
 
 A simple, minimal Valentine’s Day proposal webpage built in 2025.
 
+Check it out [here](https://sudoved.github.io/valentine-2025/)
+
 This project was my early experiment with HTML, CSS, and JavaScript — basic by design, but made with heart ❤️  
 Looking back, it’s a fun snapshot of where I was at the time.
 
